@@ -1,0 +1,26 @@
+.data-table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+    border-radius:16px;
+    overflow:hidden;
+}
+
+.data-table thead{
+    background:#2563eb;
+    color:white;
+}
+
+.data-table th,
+.data-table td{
+    padding:16px;
+    text-align:left;
+}
+
+.data-table tbody tr{
+    border-bottom:1px solid #eee;
+}
+
+.data-table tbody tr:hover{
+    background:#f5f8ff;
+}

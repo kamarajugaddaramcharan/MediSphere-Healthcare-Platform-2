@@ -1,0 +1,1001 @@
+patientId	bloodGroup	height	weight	allergies	medicalHistory
+1	A+	146	63.7	None	Healthy
+2	O+	192	110	None	Diabetes
+3	O+	158	54.2	Dust	Asthma
+4	B+	189	95.4	None	Asthma
+5	B+	145	63.4	None	Diabetes
+6	O+	158	83.2	None	Healthy
+7	O+	167	77.1	Peanuts	Obesity
+8	A+	169	55	None	Asthma
+9	AB+	168	76.9	Pollen	Healthy
+10	O+	163	89.7	Seafood	Arthritis
+11	A+	174	85.3	None	Hypertension
+12	O+	162	76.7	Pollen	Healthy
+13	A+	179	95.1	None	Hypertension
+14	B-	185	99.3	None	Hypertension
+15	B+	148	47.5	None	Hypertension
+16	O+	158	81.4	Dust	Obesity
+17	O+	176	75.4	Seafood	Diabetes
+18	O+	160	76.6	Penicillin	COPD
+19	A+	182	80.8	None	Kidney Disease
+20	A+	150	67.7	Seafood	Healthy
+21	O+	188	87.5	None	Hypertension
+22	AB-	178	69.8	Dust	Thyroid Disorder
+23	B+	152	66.8	Penicillin	Hypertension
+24	A+	152	52.4	None	Healthy
+25	B+	191	81	Penicillin	Healthy
+26	AB+	185	77.9	Dust	Asthma
+27	O+	193	76.7	Latex	Thyroid Disorder
+28	AB+	183	77.6	None	Thyroid Disorder
+29	B+	164	58.7	None	Asthma
+30	O+	191	94	None	COPD
+31	B+	153	66.8	Latex	Healthy
+32	A+	183	83	None	Diabetes
+33	B+	157	72.5	None	Obesity
+34	A+	178	79.9	None	Healthy
+35	O+	180	70.2	None	Healthy
+36	A+	159	48.2	None	Hypertension
+37	A+	162	75.3	None	Healthy
+38	O-	181	89.2	None	Diabetes
+39	A+	151	45	None	Diabetes
+40	A+	191	68.8	Dust	Obesity
+41	O+	191	85.5	Seafood	Healthy
+42	O+	173	60.6	None	Diabetes
+43	B+	149	55.7	Seafood	Asthma
+44	O+	179	100.5	Latex	Thyroid Disorder
+45	B+	155	58.9	Penicillin	Arthritis
+46	AB+	155	57.8	Latex	Hypertension
+47	B+	174	68.3	Pollen	Obesity
+48	B+	187	103.1	None	Hypertension
+49	A-	182	98.6	None	Hypertension
+50	O+	175	79.8	Seafood	Healthy
+51	A-	150	71.1	None	Healthy
+52	B+	170	57.6	Seafood	Healthy
+53	A+	184	65.4	Dust	Asthma
+54	O+	161	55.1	Pollen	Healthy
+55	A+	187	99.1	Penicillin	Thyroid Disorder
+56	O-	145	53.3	Latex	Kidney Disease
+57	O+	158	65.1	None	Hypertension
+58	O+	160	61.2	None	Heart Disease
+59	B+	184	110	Peanuts	Diabetes
+60	B+	180	73.8	Dust	Thyroid Disorder
+61	O+	152	74.5	Pollen	Healthy
+62	O+	158	73.6	None	Asthma
+63	O+	176	68.2	Seafood	Healthy
+64	A+	162	49.1	None	Healthy
+65	A-	155	71.7	Dust	Diabetes
+66	O+	149	73.5	Pollen	Healthy
+67	O+	168	77.1	None	Healthy
+68	O+	195	110	None	Hypertension
+69	B+	187	68.7	Peanuts	Arthritis
+70	A+	184	101.5	Seafood	Healthy
+71	O+	156	78.1	None	Obesity
+72	O+	171	90.2	Seafood	Heart Disease
+73	O+	195	110	None	Healthy
+74	A+	157	76.6	Penicillin	Hypertension
+75	B+	159	54.5	Dust	Hypertension
+76	O+	149	74.3	None	Obesity
+77	A+	179	74.7	None	Arthritis
+78	O+	182	110	None	Healthy
+79	A+	191	110	None	Kidney Disease
+80	O+	181	68.9	None	Diabetes
+81	A+	179	92.9	Latex	Obesity
+82	O+	172	56.6	Dust	Hypertension
+83	O+	152	68.2	None	Hypertension
+84	A+	170	84.3	Dust	Healthy
+85	B+	169	82.4	Seafood	Asthma
+86	O+	180	101.5	None	Healthy
+87	B+	183	95.4	Penicillin	Diabetes
+88	O+	175	94	Latex	Obesity
+89	B+	163	69.7	Dust	Hypertension
+90	B+	193	81	None	Heart Disease
+91	O+	147	47.4	Penicillin	Heart Disease
+92	O+	171	94.1	Dust	Obesity
+93	A+	170	63.3	Dust	Healthy
+94	B+	194	110	Peanuts	Healthy
+95	B+	189	93.9	None	Healthy
+96	B+	174	61	Penicillin	Diabetes
+97	A+	165	90.4	Seafood	Asthma
+98	B+	177	77.8	Seafood	Diabetes
+99	O+	175	77.2	Pollen	Heart Disease
+100	O+	194	99.1	Dust	Hypertension
+101	O+	163	57.8	None	Arthritis
+102	O+	154	51.5	Pollen	Obesity
+103	O+	171	68.1	Penicillin	Healthy
+104	B+	169	92.8	Dust	Obesity
+105	B+	193	101.4	Penicillin	Thyroid Disorder
+106	O+	169	90.4	Latex	Diabetes
+107	B+	179	98.7	Seafood	Diabetes
+108	O+	176	57.2	None	Obesity
+109	A+	155	75.6	Seafood	Kidney Disease
+110	A+	170	79.4	Dust	Healthy
+111	A+	174	63.3	None	Hypertension
+112	A+	166	83.2	None	COPD
+113	B+	161	81.3	Penicillin	COPD
+114	O+	167	60.2	None	Thyroid Disorder
+115	O+	146	70.8	None	Healthy
+116	O+	153	59.9	None	Thyroid Disorder
+117	A+	161	78.5	None	Asthma
+118	B+	152	70.3	None	Hypertension
+119	A+	164	73.2	Seafood	Hypertension
+120	O-	157	47.4	Pollen	Asthma
+121	O+	194	85.9	Pollen	Heart Disease
+122	B+	181	100	None	Diabetes
+123	A+	177	88.9	None	Diabetes
+124	A+	172	98.7	Dust	Heart Disease
+125	B+	172	61.6	Penicillin	Obesity
+126	A+	179	97.4	Penicillin	Heart Disease
+127	A+	165	86.1	Peanuts	Healthy
+128	AB+	160	76.8	Dust	Obesity
+129	O+	176	97.9	None	Healthy
+130	B+	166	61.9	Dust	Arthritis
+131	A+	178	105.1	None	Obesity
+132	A+	193	81.4	Penicillin	Obesity
+133	A+	146	45	None	Obesity
+134	O+	182	79.2	Dust	Hypertension
+135	AB-	180	75.5	Pollen	Hypertension
+136	O+	152	68.3	None	COPD
+137	O-	189	74.9	None	Diabetes
+138	B+	193	98.3	None	Healthy
+139	O+	159	60.1	None	Obesity
+140	O+	147	72.6	Dust	Obesity
+141	O+	193	96.3	Seafood	Asthma
+142	A+	173	70.2	Latex	Hypertension
+143	B+	152	72	None	Healthy
+144	A+	148	45	Peanuts	Thyroid Disorder
+145	O+	160	50.9	Pollen	Asthma
+146	B+	159	76.9	None	Arthritis
+147	O+	182	110	None	Asthma
+148	A+	192	72.2	Pollen	Asthma
+149	O+	150	46.2	None	Healthy
+150	O+	173	86.9	Penicillin	Healthy
+151	O+	163	77.7	Penicillin	Obesity
+152	AB+	195	110	Dust	Heart Disease
+153	O+	152	61.7	Dust	Arthritis
+154	B+	149	45	Peanuts	Asthma
+155	B+	163	66.5	Penicillin	Hypertension
+156	A+	162	68.3	Penicillin	Healthy
+157	O+	172	88	Dust	Healthy
+158	O+	188	110	Dust	Thyroid Disorder
+159	AB-	188	110	Dust	COPD
+160	O+	178	90.1	Seafood	Healthy
+161	A+	185	106.2	Latex	Diabetes
+162	A+	165	78.2	Seafood	Hypertension
+163	B+	163	76	None	COPD
+164	O+	150	51.8	None	Kidney Disease
+165	A+	177	97.7	None	Arthritis
+166	A+	148	46	None	COPD
+167	A+	193	70.1	None	Healthy
+168	O+	189	92	None	Asthma
+169	B+	190	74.1	Dust	Asthma
+170	O+	152	58.6	None	Heart Disease
+171	A+	190	81.8	Pollen	Diabetes
+172	A+	175	67.1	Dust	Hypertension
+173	AB+	177	93.8	None	Healthy
+174	B+	171	68.5	Peanuts	Hypertension
+175	O+	191	83.1	Dust	Kidney Disease
+176	A+	154	59.6	Penicillin	Hypertension
+177	B+	169	72.2	None	Healthy
+178	B+	181	79	Seafood	Diabetes
+179	O+	175	89.7	Peanuts	Hypertension
+180	B+	186	110	Penicillin	Healthy
+181	A+	182	77.2	None	Heart Disease
+182	O+	174	55.2	None	Arthritis
+183	A-	149	56.6	Latex	Hypertension
+184	B+	186	66.7	None	Obesity
+185	A+	165	76.3	Seafood	Diabetes
+186	A+	184	64.6	Dust	Thyroid Disorder
+187	AB-	192	71.7	Latex	COPD
+188	B+	151	57.2	Pollen	Arthritis
+189	O+	195	71.9	None	Diabetes
+190	O+	171	79.1	Peanuts	Healthy
+191	O+	169	79.7	None	Thyroid Disorder
+192	O+	174	85.4	Penicillin	Obesity
+193	AB+	174	98.2	Pollen	Healthy
+194	A+	167	94.3	None	Kidney Disease
+195	B+	174	95.4	None	Hypertension
+196	A+	160	61.7	None	Hypertension
+197	B+	146	71.7	Dust	Hypertension
+198	A+	188	107.6	Latex	Thyroid Disorder
+199	B+	163	80.8	None	Heart Disease
+200	O+	157	68.9	Pollen	Obesity
+201	B+	153	65.7	Seafood	Obesity
+202	O+	173	55.5	None	Healthy
+203	AB+	165	81.6	None	Healthy
+204	A+	168	74.8	Seafood	Heart Disease
+205	O+	175	102.5	None	Arthritis
+206	B+	174	101.1	None	Kidney Disease
+207	B+	191	105	None	Heart Disease
+208	A+	150	69	None	Diabetes
+209	A+	188	106	None	Hypertension
+210	A+	168	55.7	None	Healthy
+211	AB+	180	75.3	Dust	Obesity
+212	A+	174	98.5	None	Diabetes
+213	O+	147	49.4	Penicillin	Healthy
+214	AB+	153	56.7	None	Thyroid Disorder
+215	B+	179	79.2	Pollen	Healthy
+216	A+	151	71.5	Dust	Thyroid Disorder
+217	O+	189	85.5	None	Thyroid Disorder
+218	B+	151	76.8	None	Arthritis
+219	A+	148	53.4	None	Healthy
+220	B+	174	58.9	None	Asthma
+221	A-	148	67	None	Healthy
+222	A+	149	69.4	Dust	Asthma
+223	B+	159	58.8	None	Arthritis
+224	O+	154	80.2	Penicillin	COPD
+225	O+	146	45	None	COPD
+226	A+	146	45	None	COPD
+227	A+	192	70.1	None	Hypertension
+228	A+	173	78	Latex	Healthy
+229	B+	187	92.1	Penicillin	Kidney Disease
+230	O+	175	96.6	None	Healthy
+231	B+	173	57.4	None	Asthma
+232	O+	162	73.5	Dust	Obesity
+233	A+	183	88.7	Penicillin	Asthma
+234	O+	189	70.8	Dust	Arthritis
+235	A+	158	62.1	Seafood	Diabetes
+236	B+	170	71.3	None	Diabetes
+237	B+	168	93.9	Pollen	Diabetes
+238	O+	150	45	None	Obesity
+239	B+	180	61.4	Latex	Asthma
+240	B+	171	69.2	Dust	COPD
+241	B+	191	68.7	None	Hypertension
+242	O+	177	67.1	Dust	Healthy
+243	O+	180	77.4	Pollen	Asthma
+244	B+	180	108.8	Peanuts	Asthma
+245	A+	146	59.1	Dust	Obesity
+246	O+	162	76.7	None	Hypertension
+247	O+	154	64.2	None	Healthy
+248	A+	146	45	Penicillin	Hypertension
+249	A+	155	57.5	Pollen	COPD
+250	A+	150	72.3	None	COPD
+251	O+	150	50.3	Dust	Diabetes
+252	A+	162	56.3	Penicillin	Hypertension
+253	O+	188	102	Penicillin	Obesity
+254	O+	170	97.5	None	Healthy
+255	O-	194	76	None	Hypertension
+256	O+	192	91.8	None	Diabetes
+257	O+	180	101.5	Peanuts	Healthy
+258	B+	147	54	Penicillin	Healthy
+259	O+	172	80.4	Pollen	Diabetes
+260	O+	146	71.3	None	Thyroid Disorder
+261	A+	189	110	None	Heart Disease
+262	O+	182	80.8	None	Arthritis
+263	B+	159	59	None	Diabetes
+264	O+	177	66.1	Peanuts	Hypertension
+265	O-	186	107.4	None	Healthy
+266	O+	183	68.5	Pollen	Healthy
+267	O-	185	88.7	Pollen	COPD
+268	A+	181	92.7	Latex	Hypertension
+269	A-	165	55.6	None	Diabetes
+270	O+	162	72.1	None	Healthy
+271	A+	147	45	Peanuts	Healthy
+272	B+	150	62.6	Penicillin	Diabetes
+273	A+	195	110	None	Arthritis
+274	A+	157	57	Penicillin	Healthy
+275	O+	151	70.6	Peanuts	Kidney Disease
+276	O+	186	71.8	None	Diabetes
+277	A+	178	87.9	None	Thyroid Disorder
+278	A+	194	88.1	Dust	COPD
+279	A+	149	51.7	Dust	Hypertension
+280	O+	187	110	Dust	Healthy
+281	O+	187	70.9	None	Kidney Disease
+282	B+	170	58	Pollen	Healthy
+283	A+	186	106.1	Peanuts	Obesity
+284	B+	192	110	Seafood	Healthy
+285	B+	177	74.5	None	Healthy
+286	O+	194	97	None	Healthy
+287	O+	195	74.6	Peanuts	Heart Disease
+288	AB+	147	61.8	Seafood	Asthma
+289	A+	154	48.8	Peanuts	COPD
+290	B+	155	71	None	Hypertension
+291	B+	173	83.1	Pollen	COPD
+292	O+	160	58.8	Peanuts	Diabetes
+293	B+	168	81.4	Dust	Diabetes
+294	B+	194	90.7	Penicillin	Kidney Disease
+295	B+	183	67.7	None	Obesity
+296	B+	180	106.8	Pollen	Diabetes
+297	O+	150	68	None	Arthritis
+298	O+	172	57.6	Seafood	Heart Disease
+299	AB+	146	52.5	None	Hypertension
+300	A+	150	54	None	Thyroid Disorder
+301	B+	186	80.8	None	Healthy
+302	AB+	175	89.2	None	Obesity
+303	A+	145	68.3	None	Healthy
+304	O+	191	101.2	None	COPD
+305	O+	152	45	None	COPD
+306	A+	152	72.5	Penicillin	Diabetes
+307	A+	181	71.7	None	Diabetes
+308	A+	160	69.5	None	Obesity
+309	A+	168	53.9	Penicillin	Diabetes
+310	B-	180	59.4	Seafood	Healthy
+311	A+	168	62.3	None	COPD
+312	O+	191	104	None	Asthma
+313	B+	153	45	Penicillin	Heart Disease
+314	O+	194	109	Latex	Diabetes
+315	O+	153	45	Peanuts	Diabetes
+316	O+	147	66.2	Seafood	Hypertension
+317	O+	170	97.8	Penicillin	Hypertension
+318	B+	157	55.7	Seafood	Healthy
+319	B+	162	52.5	None	Arthritis
+320	B+	169	66.9	None	Obesity
+321	O+	178	70.6	None	Diabetes
+322	A+	156	65	None	Healthy
+323	B+	164	67.6	Pollen	Healthy
+324	A+	173	55.9	Seafood	Hypertension
+325	AB-	162	74.1	Peanuts	Healthy
+326	B+	170	68.8	Peanuts	Obesity
+327	O-	154	74.9	Pollen	Diabetes
+328	O+	160	78	None	Hypertension
+329	A+	183	68.5	None	Hypertension
+330	A+	149	60.3	Penicillin	Hypertension
+331	A+	160	85.4	None	Healthy
+332	A+	180	64.4	Peanuts	Obesity
+333	O+	184	76.4	Seafood	Diabetes
+334	O+	149	56	Seafood	Diabetes
+335	O+	188	110	Latex	Obesity
+336	B+	180	86.4	Seafood	Heart Disease
+337	B+	189	100.7	Peanuts	Diabetes
+338	O+	157	75.6	None	Diabetes
+339	O+	181	78.3	Peanuts	Asthma
+340	A+	150	45	None	Obesity
+341	A+	171	88.6	Peanuts	Healthy
+342	A-	186	66.4	Penicillin	Diabetes
+343	O+	194	100.9	Dust	COPD
+344	O+	177	102	None	Healthy
+345	O+	155	49.5	Latex	Healthy
+346	O-	178	102.4	Peanuts	Hypertension
+347	A+	180	72.5	Dust	Asthma
+348	O+	186	71.6	Latex	Healthy
+349	B+	191	110	None	Thyroid Disorder
+350	O+	146	45	Latex	COPD
+351	O+	158	75.6	None	Asthma
+352	A+	185	91.5	Dust	Hypertension
+353	O+	188	86.6	Penicillin	Obesity
+354	O+	171	75.3	None	Asthma
+355	O+	190	83.4	Latex	Hypertension
+356	A+	193	89.1	Dust	Hypertension
+357	A+	162	66.1	None	Healthy
+358	O-	184	83.6	Latex	Arthritis
+359	B+	181	96.8	None	Healthy
+360	AB-	174	78.7	None	Healthy
+361	O-	177	79.3	None	Asthma
+362	O+	163	68.9	Seafood	Obesity
+363	A+	179	58.1	None	Healthy
+364	O+	168	85.3	None	Diabetes
+365	A+	157	58.7	None	Hypertension
+366	A+	180	72.8	Latex	Obesity
+367	O+	151	55.4	Peanuts	Hypertension
+368	O-	193	75.6	Dust	Diabetes
+369	O+	147	45	None	Diabetes
+370	A+	183	108.1	None	Thyroid Disorder
+371	O+	170	97.8	Pollen	Hypertension
+372	O+	177	83.1	Pollen	Hypertension
+373	B+	168	65.8	None	Diabetes
+374	O+	191	110	Dust	Asthma
+375	O+	186	105.6	Peanuts	Asthma
+376	B+	182	85.1	Penicillin	Obesity
+377	B+	169	58.2	Pollen	Healthy
+378	O-	152	48.6	None	Diabetes
+379	A+	158	61.3	Peanuts	Thyroid Disorder
+380	B+	192	109.3	Pollen	Diabetes
+381	A+	187	89.7	None	Thyroid Disorder
+382	A+	179	75.2	None	COPD
+383	B+	186	106.8	None	Diabetes
+384	O-	162	70.7	None	Kidney Disease
+385	O+	163	77.8	Pollen	Diabetes
+386	A+	180	106.7	Peanuts	Hypertension
+387	O+	188	94.3	Seafood	Hypertension
+388	O+	194	110	None	Hypertension
+389	B+	167	91.4	Dust	COPD
+390	O+	179	71.6	Dust	Hypertension
+391	O+	192	101	None	Obesity
+392	A+	185	74.4	None	Hypertension
+393	A+	188	107.2	None	Asthma
+394	AB+	171	83.2	Seafood	Diabetes
+395	B+	193	110	None	Obesity
+396	AB+	150	64	None	Obesity
+397	B+	147	70.5	None	Arthritis
+398	O+	147	73.4	None	Diabetes
+399	O-	163	85.1	None	Asthma
+400	O+	166	62.1	Latex	Asthma
+401	A+	153	74	Penicillin	Healthy
+402	O+	155	71.3	Dust	Obesity
+403	O+	166	84.5	Dust	COPD
+404	O+	185	110	Peanuts	Diabetes
+405	O+	187	68.3	Latex	Diabetes
+406	O-	145	46.6	None	COPD
+407	O-	164	73.5	Dust	Hypertension
+408	O+	160	48.6	None	Hypertension
+409	A+	177	102.7	Seafood	COPD
+410	B+	185	110	None	Asthma
+411	O+	153	60	Penicillin	Kidney Disease
+412	A+	189	95.7	Penicillin	Diabetes
+413	B+	158	75.4	Pollen	Asthma
+414	B+	178	79.7	Pollen	Healthy
+415	A+	148	68.5	Seafood	Healthy
+416	A+	155	55.9	Penicillin	Healthy
+417	O+	182	85.5	Seafood	Diabetes
+418	O+	153	61.4	Penicillin	Healthy
+419	A+	164	79.5	None	Heart Disease
+420	B+	182	63.5	None	Obesity
+421	A+	148	72.2	None	Thyroid Disorder
+422	O+	171	61.1	None	Obesity
+423	B+	171	70.2	Seafood	Diabetes
+424	AB+	169	68.6	Pollen	Obesity
+425	A+	186	109.9	None	Kidney Disease
+426	A+	153	69.4	None	Healthy
+427	O+	164	68.3	Pollen	Diabetes
+428	A+	159	55.5	None	Hypertension
+429	O-	191	110	None	Obesity
+430	A+	146	46.6	None	Asthma
+431	A+	188	103.4	None	COPD
+432	A+	159	67.3	Pollen	COPD
+433	O+	163	57.8	Seafood	Asthma
+434	A+	194	108.2	None	Hypertension
+435	O+	187	92.1	None	Hypertension
+436	A+	182	106.2	Seafood	Asthma
+437	A+	176	58.1	None	Obesity
+438	A+	178	73.2	None	Healthy
+439	A+	193	99.1	None	Healthy
+440	B+	154	73.3	Seafood	Asthma
+441	A-	180	85.8	None	Hypertension
+442	O+	150	73.7	Peanuts	Healthy
+443	B+	157	46.4	None	Asthma
+444	O+	149	46.6	Pollen	Obesity
+445	A+	175	65.4	Seafood	Hypertension
+446	AB+	158	82.4	Latex	Healthy
+447	AB-	175	99.9	Pollen	Obesity
+448	A+	160	68.7	Peanuts	Hypertension
+449	A+	167	64	None	Arthritis
+450	A+	191	93.1	Peanuts	Thyroid Disorder
+451	A+	171	54.8	Seafood	COPD
+452	O+	180	106.8	Dust	Diabetes
+453	O+	166	59.7	Dust	Healthy
+454	A+	188	82.7	Pollen	Diabetes
+455	B+	192	95.3	None	COPD
+456	O+	191	97.6	None	Arthritis
+457	B-	148	57.8	Peanuts	Healthy
+458	B+	148	66.2	None	Heart Disease
+459	O+	190	73.7	None	Diabetes
+460	O+	185	98.1	Dust	Diabetes
+461	A+	145	55.7	None	Healthy
+462	B+	179	107.8	None	Heart Disease
+463	B+	156	48	None	Healthy
+464	O+	178	69.8	None	COPD
+465	O+	170	73.2	None	Obesity
+466	O+	150	64	Seafood	COPD
+467	O+	169	68.6	Penicillin	Asthma
+468	B+	150	58.5	None	COPD
+469	A+	151	73.7	Seafood	Healthy
+470	AB+	189	110	Penicillin	Healthy
+471	O+	162	85	Dust	Healthy
+472	AB+	165	49.7	None	Healthy
+473	B+	170	95	None	Asthma
+474	A+	169	82.3	Penicillin	Hypertension
+475	B+	195	110	Pollen	Diabetes
+476	A-	148	45	None	Healthy
+477	A+	184	110	None	COPD
+478	O+	162	80.1	Penicillin	Healthy
+479	A+	169	71.1	Pollen	Obesity
+480	O+	184	76.9	None	Healthy
+481	O+	169	83.9	Dust	Obesity
+482	O+	151	45	Latex	Diabetes
+483	B+	151	45.9	None	Diabetes
+484	A+	171	57.5	None	Asthma
+485	A+	195	88.2	None	Hypertension
+486	A+	150	66.6	Dust	Kidney Disease
+487	O+	178	65.6	None	Healthy
+488	O+	176	63	None	Hypertension
+489	O+	195	73.1	None	Healthy
+490	A+	183	93.3	Penicillin	Healthy
+491	O+	170	67.4	Dust	Heart Disease
+492	O+	166	68.6	Peanuts	Obesity
+493	A+	164	62.2	Latex	Healthy
+494	O+	170	96.8	None	Obesity
+495	A+	181	100	None	Hypertension
+496	B+	168	55.9	Dust	Asthma
+497	A+	188	107	None	Obesity
+498	O-	158	62.4	None	Obesity
+499	B+	195	110	Pollen	Healthy
+500	O+	161	74	Pollen	COPD
+501	O+	183	86	None	Diabetes
+502	AB+	189	88.2	None	Kidney Disease
+503	B+	179	88.1	Seafood	Healthy
+504	O+	187	82.8	Dust	Healthy
+505	B-	188	100.2	Latex	Hypertension
+506	B+	151	45	None	Diabetes
+507	A+	182	96.1	None	Hypertension
+508	A+	188	96.9	Penicillin	Hypertension
+509	O+	151	51.8	Seafood	Healthy
+510	B+	191	73.9	None	Diabetes
+511	O+	175	72.2	None	Obesity
+512	A+	149	50.6	Peanuts	Healthy
+513	B+	186	68.3	Peanuts	Thyroid Disorder
+514	B+	178	65.9	None	Asthma
+515	O-	159	77.8	Dust	Healthy
+516	B+	170	53.4	Dust	Healthy
+517	A+	169	51.6	None	Hypertension
+518	B+	195	72.3	None	Arthritis
+519	O+	165	57.6	None	Obesity
+520	A+	185	78.8	None	Hypertension
+521	O+	167	87.9	Dust	Heart Disease
+522	B+	164	87.9	Dust	Obesity
+523	O+	160	58.6	None	Obesity
+524	A+	171	80.5	Dust	Diabetes
+525	A+	179	93.2	Dust	Kidney Disease
+526	A+	176	70.1	None	Heart Disease
+527	A+	167	92.7	Penicillin	Healthy
+528	A+	180	84.5	Penicillin	Obesity
+529	A+	173	77.3	None	Healthy
+530	B+	163	49.2	None	Hypertension
+531	B+	181	97.9	Pollen	Asthma
+532	O+	152	51.5	Penicillin	Kidney Disease
+533	A+	193	69.5	Pollen	Asthma
+534	B-	151	67.9	Dust	Healthy
+535	B+	147	54.4	None	Heart Disease
+536	A+	152	70.3	None	Heart Disease
+537	A+	167	88.6	Dust	Diabetes
+538	A+	195	81	None	Healthy
+539	O+	162	72.3	None	Kidney Disease
+540	O+	181	73	Seafood	Kidney Disease
+541	B+	151	46	Pollen	Diabetes
+542	O+	162	83.6	None	Arthritis
+543	O+	190	83.6	None	Heart Disease
+544	A+	154	64.6	None	Diabetes
+545	A+	185	105.1	Pollen	Diabetes
+546	B+	189	110	None	Thyroid Disorder
+547	O+	145	67.1	Peanuts	Healthy
+548	A-	185	98	None	Healthy
+549	A+	158	83.6	Peanuts	Diabetes
+550	O+	163	62.2	Dust	Asthma
+551	A+	166	89	Pollen	Healthy
+552	A+	174	55.3	Seafood	Healthy
+553	A+	172	62.8	Pollen	Healthy
+554	A+	155	76.9	Seafood	Healthy
+555	O+	150	53.9	Seafood	Healthy
+556	A+	164	79.7	Pollen	Diabetes
+557	O+	151	45	Penicillin	Healthy
+558	O+	188	88.8	None	Hypertension
+559	O+	172	86.1	Penicillin	Healthy
+560	O+	151	45	None	Hypertension
+561	A+	193	110	Dust	Obesity
+562	O+	181	59.4	Dust	Diabetes
+563	B+	185	102.6	Seafood	Asthma
+564	A+	158	48.4	None	COPD
+565	A+	169	67.5	None	COPD
+566	O+	186	66.9	Dust	Asthma
+567	A+	194	110	None	Heart Disease
+568	B+	158	65.6	Penicillin	COPD
+569	O+	148	66.9	Peanuts	Healthy
+570	A+	160	66.5	Dust	Diabetes
+571	A-	168	93	None	Arthritis
+572	A+	168	75.5	None	Diabetes
+573	B-	149	45	None	Hypertension
+574	O+	148	72.7	None	Hypertension
+575	B+	194	92.8	Pollen	Healthy
+576	A+	184	69.2	None	Healthy
+577	AB+	154	63	None	Asthma
+578	B+	188	100	None	Diabetes
+579	O-	160	48.5	None	Diabetes
+580	A+	183	63.2	Dust	Obesity
+581	O+	145	61.7	Pollen	Healthy
+582	O-	178	83.3	Peanuts	Hypertension
+583	A+	192	110	None	Arthritis
+584	B+	146	49.8	None	Diabetes
+585	O+	181	91.9	Penicillin	Diabetes
+586	O+	181	67.7	None	COPD
+587	AB+	188	104.5	None	Diabetes
+588	O+	145	46.1	Penicillin	Hypertension
+589	O+	147	58	Seafood	COPD
+590	A+	165	59.8	Seafood	Hypertension
+591	B+	181	78.5	Penicillin	Arthritis
+592	O+	178	106.8	Latex	Healthy
+593	A+	163	80.7	None	Healthy
+594	A+	168	59.9	Dust	Hypertension
+595	A+	174	72.3	Latex	Kidney Disease
+596	B+	191	110	Pollen	Healthy
+597	O+	171	53.8	Penicillin	Asthma
+598	B+	145	69.8	None	Obesity
+599	B+	191	83.6	None	Kidney Disease
+600	A+	148	73.5	None	Hypertension
+601	O+	159	81.8	Penicillin	Obesity
+602	A+	192	71.4	None	Healthy
+603	B+	149	61	None	Obesity
+604	O+	163	58.9	None	Heart Disease
+605	B+	192	85.6	Penicillin	Healthy
+606	O-	153	71.3	Dust	Healthy
+607	O+	174	69.7	None	Hypertension
+608	B+	173	68.6	None	Healthy
+609	O+	188	80.8	Pollen	Asthma
+610	O+	165	55.5	Pollen	Kidney Disease
+611	A+	148	63.2	None	Kidney Disease
+612	O+	170	91.5	Dust	Asthma
+613	O+	151	70.4	None	Healthy
+614	B+	159	50.8	Peanuts	Hypertension
+615	A+	186	66.9	Dust	Thyroid Disorder
+616	O+	149	47	Dust	Heart Disease
+617	O+	166	55	Latex	Healthy
+618	AB+	172	92.1	None	Healthy
+619	B+	156	57.6	Seafood	Hypertension
+620	A+	154	45	Dust	Healthy
+621	O+	171	93.9	Penicillin	Healthy
+622	A+	171	62	Seafood	Diabetes
+623	A+	179	98.4	Latex	COPD
+624	O+	179	97.7	None	Asthma
+625	O+	162	54.8	None	Healthy
+626	AB+	194	84.7	Peanuts	Diabetes
+627	O+	182	110	Latex	Healthy
+628	B+	162	69.6	Peanuts	Obesity
+629	B+	159	68.8	Latex	Hypertension
+630	O-	156	50.7	Dust	Heart Disease
+631	B+	182	61.1	Pollen	Thyroid Disorder
+632	A+	181	108.7	Peanuts	Heart Disease
+633	A-	179	73.5	Penicillin	Healthy
+634	O+	159	46.3	Penicillin	Hypertension
+635	A+	153	54.9	None	Heart Disease
+636	B+	148	45	Dust	Thyroid Disorder
+637	B+	178	100.7	Latex	Hypertension
+638	O-	170	79.1	None	Hypertension
+639	A-	191	110	Peanuts	Kidney Disease
+640	A+	156	71.3	Dust	Arthritis
+641	A+	167	60.2	Dust	Healthy
+642	O+	189	81.1	None	Healthy
+643	B+	181	79.5	Latex	Kidney Disease
+644	O+	183	77.3	Peanuts	Asthma
+645	A+	151	75.2	None	COPD
+646	O+	165	56.3	Seafood	Healthy
+647	B+	185	101.5	None	Healthy
+648	O+	189	68.2	None	Healthy
+649	O+	169	71.4	None	Healthy
+650	A+	169	67.5	None	Heart Disease
+651	B+	181	93.1	Pollen	Healthy
+652	O+	147	49.1	None	Thyroid Disorder
+653	O+	155	77.4	None	Healthy
+654	O-	150	52.7	Latex	Arthritis
+655	B+	172	97.9	None	Arthritis
+656	O+	151	53.1	Latex	Diabetes
+657	A+	191	97.2	Dust	Hypertension
+658	O+	170	78.5	Peanuts	Healthy
+659	O+	172	57.4	Peanuts	Asthma
+660	A+	151	45	None	Hypertension
+661	O+	152	53	None	Diabetes
+662	B+	150	63.6	None	Hypertension
+663	A+	156	61.2	None	Diabetes
+664	O+	162	70.9	None	Obesity
+665	O+	187	82.2	Penicillin	Kidney Disease
+666	A+	180	61.5	None	Diabetes
+667	A-	188	110	Penicillin	Arthritis
+668	A+	150	54.7	Seafood	Healthy
+669	A+	178	97.6	Pollen	Asthma
+670	O+	193	93.8	Latex	Healthy
+671	O+	157	49.3	None	Kidney Disease
+672	A+	185	69.7	Dust	Hypertension
+673	B+	149	45	Dust	Asthma
+674	B+	178	80.3	Seafood	COPD
+675	A+	178	96.7	None	Healthy
+676	A+	182	99.8	Latex	Thyroid Disorder
+677	A+	151	69.7	Seafood	Arthritis
+678	B+	161	62.5	Penicillin	Asthma
+679	O+	162	64.2	Dust	Obesity
+680	A+	170	93.2	None	Healthy
+681	B+	162	84.9	None	Heart Disease
+682	O+	162	82.6	Seafood	Obesity
+683	A-	159	50.9	Latex	Diabetes
+684	B+	162	77.8	Dust	Healthy
+685	A+	171	87.3	Pollen	Arthritis
+686	B+	177	96.1	None	Obesity
+687	A+	194	110	Seafood	Healthy
+688	O+	157	77.4	None	Diabetes
+689	AB+	190	76.5	None	Diabetes
+690	A+	152	66.8	None	Diabetes
+691	A+	175	83.9	None	Healthy
+692	AB+	192	110	None	Healthy
+693	O+	181	99.8	None	Healthy
+694	O+	158	55.7	None	Healthy
+695	B+	194	108.8	Penicillin	Healthy
+696	O+	145	45.4	Dust	Thyroid Disorder
+697	B+	190	102.1	None	Hypertension
+698	O+	161	55.7	None	Diabetes
+699	A+	182	65	Penicillin	Obesity
+700	B+	168	76.2	Dust	Hypertension
+701	B+	175	58.3	Latex	Obesity
+702	B+	161	73.9	Latex	Obesity
+703	O+	178	95.8	Seafood	Heart Disease
+704	B+	183	81.9	None	Healthy
+705	O+	176	105.2	None	Diabetes
+706	A+	147	59.1	Latex	Heart Disease
+707	O+	190	77.8	Penicillin	COPD
+708	AB+	187	83	None	Healthy
+709	B+	180	67.7	None	Healthy
+710	O+	180	97.9	None	Obesity
+711	O+	150	48.5	None	Arthritis
+712	A+	166	66	Dust	Diabetes
+713	O+	148	69.8	Dust	Thyroid Disorder
+714	O+	157	64.1	Seafood	Hypertension
+715	O+	148	69.9	None	Kidney Disease
+716	O+	181	105.8	Latex	Healthy
+717	B+	156	74.1	Penicillin	Asthma
+718	O+	185	64.8	Penicillin	Healthy
+719	B+	181	99	Penicillin	COPD
+720	O+	184	84.4	None	Diabetes
+721	A+	145	45	None	Hypertension
+722	O+	165	82	Penicillin	Healthy
+723	O+	191	80.2	Pollen	Hypertension
+724	O+	169	74.4	None	Healthy
+725	O+	163	67.2	Penicillin	Diabetes
+726	A+	188	110	None	Arthritis
+727	O+	157	50.9	Seafood	Heart Disease
+728	O+	159	74.9	None	Obesity
+729	A+	155	48	Pollen	COPD
+730	A+	185	75.6	Penicillin	Healthy
+731	B-	187	69	Peanuts	Healthy
+732	O+	173	72.1	Penicillin	Diabetes
+733	O+	189	103.5	None	Diabetes
+734	O+	178	70.7	Dust	Healthy
+735	B+	151	59.7	Dust	Hypertension
+736	B+	176	65.6	None	Hypertension
+737	A+	157	58.5	None	Healthy
+738	A+	158	72.4	Penicillin	Healthy
+739	O+	150	73.1	Peanuts	Obesity
+740	O+	150	68.6	None	Obesity
+741	AB+	186	75.1	Latex	Hypertension
+742	A+	151	70.7	Seafood	Heart Disease
+743	O+	188	81.3	Pollen	Healthy
+744	B+	147	45	None	Obesity
+745	O+	173	99.6	None	Obesity
+746	A+	166	57.7	None	Kidney Disease
+747	O+	169	82.9	Penicillin	Diabetes
+748	AB+	155	47.6	Pollen	Healthy
+749	O-	155	47.2	Seafood	Diabetes
+750	A+	173	62.6	None	Hypertension
+751	O+	188	110	Pollen	Arthritis
+752	A+	176	61.4	None	Healthy
+753	O+	165	49.5	Seafood	Diabetes
+754	B+	191	98.6	Latex	Obesity
+755	O+	178	91.9	Dust	Diabetes
+756	B+	175	72.1	Pollen	Hypertension
+757	B+	180	104.6	Dust	Healthy
+758	O-	177	98.9	Seafood	Arthritis
+759	O+	176	71.6	None	Hypertension
+760	A+	180	91.7	None	Healthy
+761	A+	181	82.5	Seafood	Diabetes
+762	O+	176	92.7	None	Diabetes
+763	O+	180	58.3	None	Asthma
+764	A+	164	86.7	Dust	Obesity
+765	A+	166	65.6	None	Healthy
+766	A+	180	98.1	Dust	Obesity
+767	O+	173	59.3	Pollen	Healthy
+768	O+	185	110	None	Diabetes
+769	B+	147	69.9	Penicillin	Heart Disease
+770	B+	171	57.6	Dust	Healthy
+771	O-	170	62	Peanuts	Healthy
+772	O+	193	91.7	Seafood	Heart Disease
+773	A+	194	110	Penicillin	Asthma
+774	A+	176	56	Pollen	Asthma
+775	A+	182	85.2	Penicillin	Thyroid Disorder
+776	O+	182	68.8	Peanuts	Healthy
+777	B+	183	107.6	Penicillin	Hypertension
+778	A-	189	107.9	None	Kidney Disease
+779	A-	173	92.4	None	Asthma
+780	AB+	177	71.4	Pollen	Arthritis
+781	B+	180	91.1	None	Asthma
+782	O+	167	91.3	None	Obesity
+783	A-	156	63.4	Pollen	Hypertension
+784	O+	167	75.3	Dust	Thyroid Disorder
+785	B+	188	105.9	Peanuts	Hypertension
+786	B+	145	55.4	None	Healthy
+787	B+	157	54.9	Peanuts	Kidney Disease
+788	B+	154	74.5	Pollen	Hypertension
+789	B+	147	51.3	Penicillin	Asthma
+790	B+	180	103.2	Pollen	Asthma
+791	O+	195	110	Pollen	Obesity
+792	O+	169	69.1	Latex	Kidney Disease
+793	O+	180	61.1	Pollen	Healthy
+794	B+	173	93.6	Seafood	Obesity
+795	A+	193	102.1	Pollen	Healthy
+796	B+	157	56	None	Obesity
+797	O+	156	72.4	None	Healthy
+798	O+	161	52.1	Dust	Hypertension
+799	O+	190	110	None	Thyroid Disorder
+800	A+	194	110	Dust	Obesity
+801	A+	181	87.8	None	Obesity
+802	A+	156	64.1	Peanuts	Healthy
+803	A+	170	56.3	None	Healthy
+804	O+	168	64.1	Latex	Asthma
+805	A+	180	101	Latex	Healthy
+806	B+	173	65.4	Dust	Thyroid Disorder
+807	O+	147	62.5	None	Thyroid Disorder
+808	O-	169	63.1	Pollen	Healthy
+809	A+	194	90.3	Peanuts	Diabetes
+810	O+	186	72.9	Penicillin	Thyroid Disorder
+811	O+	194	100.1	None	Healthy
+812	B+	194	80.6	Pollen	Heart Disease
+813	O+	189	110	Pollen	Diabetes
+814	B+	149	66.5	None	Diabetes
+815	O+	150	45	None	Hypertension
+816	O+	159	82.4	None	Diabetes
+817	A+	165	49.7	Pollen	Diabetes
+818	A+	184	64.4	Pollen	Healthy
+819	B+	167	91.6	None	COPD
+820	O+	150	50.6	Seafood	Hypertension
+821	B+	146	54.5	Penicillin	Healthy
+822	A+	179	72.8	Dust	Hypertension
+823	AB+	195	110	Dust	Thyroid Disorder
+824	O+	180	65.6	None	Asthma
+825	A+	180	107.4	None	COPD
+826	AB+	167	59.6	Seafood	Heart Disease
+827	O+	156	52.4	Peanuts	Healthy
+828	O+	181	103.6	Seafood	Thyroid Disorder
+829	B-	174	85.7	None	Obesity
+830	O+	157	73	Penicillin	Hypertension
+831	O+	186	75.3	None	Healthy
+832	O+	176	78.1	Dust	Hypertension
+833	A+	181	88.7	Peanuts	Thyroid Disorder
+834	O+	165	59.7	None	Obesity
+835	A+	168	56.9	Pollen	Arthritis
+836	A+	167	84.8	Penicillin	Healthy
+837	A+	150	70.8	Seafood	Healthy
+838	A+	161	77.1	Dust	Obesity
+839	AB+	177	88.1	Peanuts	Asthma
+840	B+	158	81.1	Dust	Asthma
+841	AB-	175	87.2	None	Hypertension
+842	AB+	182	98.5	None	Diabetes
+843	A+	170	68.8	None	Healthy
+844	A-	184	98	Pollen	Healthy
+845	O+	181	108.7	Dust	Kidney Disease
+846	B+	175	101.1	None	COPD
+847	O+	161	62	None	Healthy
+848	AB+	168	68.3	Seafood	Arthritis
+849	O+	186	80.2	Pollen	Diabetes
+850	B+	192	81.9	Penicillin	Healthy
+851	B+	168	77.3	Seafood	Healthy
+852	O+	159	66.4	None	Arthritis
+853	A+	175	98.6	None	Arthritis
+854	A+	159	48.6	Dust	Healthy
+855	O+	168	78	Peanuts	Obesity
+856	A+	166	81.4	Penicillin	Diabetes
+857	O+	155	68.1	None	Healthy
+858	O+	182	68.2	Dust	Healthy
+859	A+	148	45.3	Seafood	Diabetes
+860	A+	181	92.4	Seafood	Obesity
+861	B+	150	48.3	Dust	Diabetes
+862	A+	159	79.1	Dust	COPD
+863	B+	156	68.1	Penicillin	Healthy
+864	B+	174	83.4	None	Hypertension
+865	O+	146	45.3	Seafood	Diabetes
+866	A+	154	65.7	None	Arthritis
+867	A+	195	100.8	Pollen	Healthy
+868	B+	183	89.2	None	Thyroid Disorder
+869	B+	172	78	None	Healthy
+870	A+	159	83.5	Penicillin	COPD
+871	O+	192	110	Peanuts	Asthma
+872	A+	161	66.4	None	Heart Disease
+873	O+	179	78.6	None	Obesity
+874	B+	181	86.4	Penicillin	Hypertension
+875	O+	165	66.8	None	Diabetes
+876	A+	161	82.1	None	Hypertension
+877	O+	188	86.1	None	Asthma
+878	A+	156	58.2	Dust	Hypertension
+879	O+	167	84.7	None	Healthy
+880	B+	152	69.2	None	Obesity
+881	O+	158	65.2	Peanuts	Heart Disease
+882	A+	188	103.6	None	Kidney Disease
+883	O+	150	70.1	Penicillin	Asthma
+884	O+	161	55.9	None	Healthy
+885	A+	170	80.4	Penicillin	Obesity
+886	A+	194	110	Dust	Diabetes
+887	O+	187	110	Penicillin	Healthy
+888	B+	177	82.2	None	Healthy
+889	O+	160	72.9	Latex	Healthy
+890	O+	170	68.3	None	Asthma
+891	A+	192	107.9	Seafood	Asthma
+892	B+	180	105.8	None	Kidney Disease
+893	O+	183	110	Penicillin	Diabetes
+894	O+	156	59.7	None	Healthy
+895	O+	152	71.3	Latex	Arthritis
+896	B+	181	72.1	None	Hypertension
+897	A+	160	77.1	Latex	Diabetes
+898	A+	182	105.3	Penicillin	Hypertension
+899	A+	195	110	Pollen	Healthy
+900	O+	167	73.2	None	Heart Disease
+901	O+	150	54.9	Pollen	Hypertension
+902	A+	156	62.4	None	Arthritis
+903	O+	192	106.6	Seafood	Diabetes
+904	O+	192	80.6	None	Healthy
+905	B+	184	80.2	Peanuts	Healthy
+906	O+	187	90.5	None	Heart Disease
+907	O-	175	73.3	None	Arthritis
+908	AB+	181	104.5	Penicillin	Kidney Disease
+909	AB+	162	63.9	Pollen	Healthy
+910	A+	172	75.9	Penicillin	Diabetes
+911	A+	188	107.5	Penicillin	Healthy
+912	A+	165	79	None	Healthy
+913	A+	165	64.8	Seafood	Healthy
+914	O+	162	67	Dust	Hypertension
+915	A+	158	61.7	Pollen	Hypertension
+916	A+	173	62.5	None	Asthma
+917	O+	151	67.3	Peanuts	Asthma
+918	B+	157	50.1	Latex	Healthy
+919	B+	156	60.2	None	Arthritis
+920	A+	179	94.6	Peanuts	Hypertension
+921	A+	181	61.5	None	Healthy
+922	O+	161	66.4	Dust	Diabetes
+923	O+	168	67.1	Dust	Heart Disease
+924	O+	171	58.3	Seafood	Kidney Disease
+925	O+	181	93	Penicillin	Kidney Disease
+926	O+	165	78.3	Penicillin	Obesity
+927	AB+	169	79.5	Penicillin	Thyroid Disorder
+928	B+	185	105.8	None	Asthma
+929	A+	149	45	None	Hypertension
+930	B+	190	80.4	Dust	Hypertension
+931	A+	168	84.6	Penicillin	Diabetes
+932	O+	146	45	None	Hypertension
+933	B+	192	71.1	None	Healthy
+934	O+	175	82	None	Hypertension
+935	B+	150	45	Dust	Healthy
+936	O-	169	65.5	None	Hypertension
+937	A+	153	61.9	None	Healthy
+938	O+	165	86.7	Penicillin	Arthritis
+939	O-	180	81.4	Latex	Obesity
+940	O+	183	84.7	Pollen	Arthritis
+941	A+	185	96.6	None	Hypertension
+942	A+	150	56.4	None	Hypertension
+943	O+	145	55.4	Pollen	Healthy
+944	O+	179	58.1	Seafood	Thyroid Disorder
+945	A+	145	63.6	Peanuts	Asthma
+946	B+	180	77.7	None	Asthma
+947	A+	155	70.7	Dust	Heart Disease
+948	O+	150	55.7	None	COPD
+949	AB+	189	103.4	None	COPD
+950	B+	171	61.4	None	Healthy
+951	O+	174	84.4	None	Asthma
+952	O+	146	45	Latex	Healthy
+953	A-	163	59.3	Pollen	Obesity
+954	O+	154	45	None	Diabetes
+955	B+	176	105.2	Penicillin	COPD
+956	O+	193	110	None	COPD
+957	O+	175	64	Seafood	Hypertension
+958	A+	145	45	Pollen	Healthy
+959	B+	173	65.7	Latex	Healthy
+960	B+	151	60.1	Latex	Diabetes
+961	B+	164	88.7	None	Obesity
+962	B+	180	85.3	None	Asthma
+963	O+	148	69.7	None	Healthy
+964	A+	165	49.7	Peanuts	Asthma
+965	A+	160	46.4	None	COPD
+966	A+	183	68.6	Peanuts	Healthy
+967	A+	188	98.6	Latex	Kidney Disease
+968	A+	148	51.9	None	Diabetes
+969	O+	176	67.3	Latex	COPD
+970	B+	173	89	None	Hypertension
+971	B+	161	83.9	Penicillin	Diabetes
+972	O+	189	92.3	Dust	Asthma
+973	O+	174	67.8	Peanuts	Thyroid Disorder
+974	A+	149	58.8	None	Heart Disease
+975	A+	174	54.5	Dust	Hypertension
+976	O+	146	59.5	None	Asthma
+977	O+	149	63.3	Penicillin	Hypertension
+978	A+	176	93.7	None	Hypertension
+979	A+	165	53.8	Penicillin	Healthy
+980	B+	153	48.8	None	Healthy
+981	O+	147	58.6	Peanuts	Obesity
+982	A+	189	98	None	Healthy
+983	B+	145	69.1	None	Diabetes
+984	AB+	150	57.4	Dust	Hypertension
+985	B+	171	91.1	Peanuts	Healthy
+986	A+	178	59.1	None	Hypertension
+987	O-	178	62	Pollen	Diabetes
+988	O+	178	90.3	Dust	Thyroid Disorder
+989	A+	180	79.8	None	Asthma
+990	O+	174	88.5	None	Healthy
+991	B+	180	79.1	None	Healthy
+992	AB-	173	98.6	Seafood	Asthma
+993	AB-	168	69.4	Dust	Heart Disease
+994	O+	160	69.1	None	COPD
+995	AB+	161	61.6	Penicillin	Thyroid Disorder
+996	O+	147	72.9	Dust	Diabetes
+997	B-	164	48.7	Latex	Healthy
+998	O+	194	110	Pollen	Hypertension
+999	A+	180	87.9	Dust	Healthy
+1000	A+	154	47.9	None	Asthma

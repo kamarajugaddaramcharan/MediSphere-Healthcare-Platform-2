@@ -1,0 +1,22 @@
+.card{
+    background:white;
+    border-radius:18px;
+    padding:25px;
+    box-shadow:0 8px 25px rgba(0,0,0,.05);
+}
+
+.summary-grid{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px;
+}
+
+.summary-card h3{
+    color:#777;
+    font-size:14px;
+}
+
+.summary-card h1{
+    font-size:34px;
+    margin-top:10px;
+}
